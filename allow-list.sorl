@@ -1,7 +1,7 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2024/11/08
-; Author: Pluwen
+; Update Date: 2024/11/26
+; Author: Pluwen (Original), ZXfkSIE (Current)
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; IP 地址段
@@ -62,6 +62,7 @@
 *.4399.com
 *.51.la
 *.51.net
+*.5118.com
 *.5173.com
 *.5173cdn.com
 *.51cto.com
@@ -107,8 +108,6 @@
 *.aixifan.com
 *.aizhan.com
 *.akadns.net
-*.akamaihd.net
-*.akamaized.net
 *.akarin.me
 *.akarin.top
 *.aldwx.com
@@ -146,18 +145,10 @@
 *.anw.red
 *.anyway.fm
 *.anzhi.com
-*.appclub.in
-*.appgame.com
 *.appinn.com
 *.appinn.net
-*.apple-cloudkit.com
-*.apple.co
-*.apple.com
 *.appletuan.com
-*.appstore.com
 *.aps.org
-*.archlinux.org
-*.archlinuxcn.org
 *.areyoucereal.com
 *.arubanetworks.com
 *.atomicstryker.net
@@ -184,7 +175,6 @@
 *.baomihua.com
 *.baomitu.com
 *.baozoumanhua.com
-*.battle.net
 *.bbtree.com
 *.bcebos.com
 *.bcedns.com
@@ -201,7 +191,6 @@
 *.beitaichufang.com
 *.bejson.com
 *.bendibao.com
-*.bible.com
 *.biliapi.com
 *.biliapi.net
 *.bilibili.com
@@ -240,14 +229,7 @@
 *.cckefu3.com
 *.cctv.com
 *.cctvpic.com
-*.cdn-apple.com
-*.cdn.hockeyapp.net
-*.cdn.jsdelivr.net
-*.cdnbee.com
-*.cdndm.com
 *.cdndm5.com
-*.cdnjs.com
-*.cdnst.net
 *.cdntip.com
 *.cdog.me
 *.ceair.com
@@ -280,8 +262,6 @@
 *.cmbimg.com
 *.cn-ki.net
 *.cn.engadget.com
-*.cnbeta.com
-*.cnbetacdn.com
 *.cnblogs.com
 *.cnki.net
 *.cnsageo.com
@@ -352,8 +332,8 @@
 *.doyoo.net
 *.doyoudo.com
 *.dpfile.com
-*.draw.io
 *.drivergenius.com
+*.drvsky.com
 *.dsxys.com
 *.duanwenxue.com
 *.duguletian.com
@@ -403,6 +383,7 @@
 *.fjdzyz.com
 *.fjgdwl.com
 *.fjhxbank.com
+*.fjmap.net
 *.fliggy.com
 *.flomoapp.com
 *.flow.ci
@@ -497,7 +478,6 @@
 *.huxiu.com
 *.huxiucdn.com
 *.huya.com
-*.hxcdn.net
 *.hxjyb.com
 *.hy233.tv
 *.i-meto.com
@@ -511,6 +491,7 @@
 *.iciba.com
 *.icloud-content.com
 *.icloud.com
+*.icpapi.com
 *.idqqimg.com
 *.ieee.org
 *.iesdouyin.com
@@ -535,9 +516,7 @@
 *.infinitynewtab.com
 *.infoq.com
 *.installbi.me
-*.intercomcdn.com
 *.ip-api.com
-*.ip-cdn.com
 *.ip.la
 *.ip.sb
 *.ip138.com
@@ -585,8 +564,6 @@
 *.jpopsuki.eu
 *.jqhtml.com
 *.js.design
-*.jsdelivr.com
-*.jsdelivr.net
 *.juejin.im
 *.juji.tv
 *.kaiyanapp.com
@@ -710,6 +687,7 @@
 *.meiin.com
 *.meijutw.com
 *.meipai.com
+*.meipian.me
 *.meiqia.com
 *.meitu.com
 *.meituan.com
@@ -743,7 +721,6 @@
 *.mojidoc.com
 *.moke.com
 *.mokeedev.com
-*.momentcdn.com
 *.momoyu.cc
 *.moonvy.com
 *.morethan.tv
@@ -898,7 +875,6 @@
 *.rework.tools
 *.rkecloud.com
 *.rkidc.net
-*.rlcdn.com
 *.rom.mk
 *.ronghub.com
 *.rr.tv
@@ -913,6 +889,7 @@
 *.s-reader.com
 *.sandai.net
 *.sankuai.com
+*.saraba1st.com
 *.sarm.net
 *.sb.sb
 *.sc115.com
@@ -1078,7 +1055,6 @@
 *.voidcn.com
 *.vostic.net
 *.vpgame.com
-*.vpgcdn.com
 *.vpsmm.com
 *.vss.im
 *.vzan.com
@@ -1165,7 +1141,6 @@
 *.yaohuo.me
 *.yd-jxt.com
 *.ydstatic.com
-*.yecdn.com
 *.yesky.com
 *.yeyfree.com
 *.yfscdn.net
@@ -1214,7 +1189,6 @@
 *.zhuihd.com
 *.zhujike.com
 *.zijieapi.com
-*.zimuzu.tv
 *.zku.net
 *.znyj365.com
 *.zto.com

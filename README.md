@@ -1,24 +1,22 @@
 # China-Domain-Whitelist
-中国网站白名单，纯列表，用于 SwitchyOmega 的白名单，不定期更新。
+本项目仅记载中国大陆境内的合法网站，坚决拒绝任何违反中华人民共和国相关法规的内容！
+因原作者与个人理念略有冲突，故fork之。
+对原作者无任何不敬之意！感谢原作者的无私奉献！
 
 ## 使用步骤
-* 将本地的 SS/SSR/V2Ray/Trajan 客户端设置为「手动模式」，Clashx 客户端设置为全局连接
-* 在 Chrome/Edge 中安装 [SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) 插件
-* 在插件的设置中，点击「新增情景模式」-「代理服务器」，名字自己设置
-* 代理协议选择 SOCKS5，代理服务器 127.0.0.1，端口 1086（按梯子工具设置）
-* 点击「新增情景模式」-「自动切换」，名字自己设置
-* 默认情景模式设置为刚才设置的代理服务器
-* 点击「添加规则列表」，在规则列表网址，输入
+* 在浏览器中安装SwitchyOmega插件
+* 新建或更改现有的Proxy Profile，添加一个能访问〇〇的地址和端口
+* 新建或更改现有的Switching Profile，导入规则列表`https://github.com/ZXfkSIE/china-domain-allowlist/raw/main/allow-list.sorl`后，点击“立即更新情景模式”
+* 至于规则列表里的网站要以什么方式访问、规则列表外的网站又要以什么方式访问，那就是你自己的事情了
 
-``
-https://github.com/pluwen/china-domain-allowlist/raw/main/allow-list.sorl
-``
-* 点击「立即更新情景模式」
-* 点击左上角「界面」，将初始情景模式改为「自动切换」
+## 个人理念
+* 只要一个网站有ICP备案号，就有资格进入本列表。
+  * 例外：对于`*.apple.com`、`*.battle.net`等使用大陆IP打开国际版页面会强制跳转到国内版的沙雕网站，本列表一概不收录，如确有直连需求，请各位自行在列表中添加！
+* 不收录任何无ICP备案号的境外网站，即使它在国内还可以勉强访问。
+  * 因为fork过来的列表里这类网站实在太多，所以没办法短期内清除干净，只能随缘删。
+  * 例外：对极少数没有标识ICP备案的域名，只要确认服务器在大陆，也可以收录。
+* 可在 https://beian.tianyancha.com/ 查询域名的ICP备案。
 
 ## 作者
-* [Pluwen](https://twitter.com/pluwen)
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=pluwen/china-domain-allowlist&type=Date)](https://star-history.com/#pluwen/china-domain-allowlist&Date)
+* [Pluwen](https://twitter.com/pluwen)（原作者）
+* ZXfkSIE
