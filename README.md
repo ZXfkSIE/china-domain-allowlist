@@ -4,10 +4,9 @@
 因原作者与个人理念略有冲突，故fork之。对原作者无任何不敬之意！感谢原作者的无私奉献！
 
 ## 使用步骤
-* 在浏览器中安装SwitchyOmega插件
-* 新建或更改现有的Proxy Profile，添加一个能访问〇〇的地址和端口
-* 新建或更改现有的Switching Profile，导入规则列表`https://github.com/ZXfkSIE/china-domain-allowlist/raw/main/allow-list.sorl`后，点击“立即更新情景模式”
-* 至于规则列表里的网站要以什么方式访问、规则列表外的网站又要以什么方式访问，那就是你自己的事情了
+* 在浏览器中安装SwitchyOmega插件。
+* 新建或更改现有的Switching Profile，导入规则列表`https://github.com/ZXfkSIE/china-domain-allowlist/raw/main/allow-list.sorl`后，点击“立即更新情景模式”。
+* 至于规则列表里的网站要以什么方式访问、规则列表外的网站又要以什么方式访问，那就是你自己的事情了。
 
 ## 个人理念
 * 只要一个网站有ICP备案号，就有资格进入本列表。

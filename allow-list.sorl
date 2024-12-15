@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2024/11/26
+; Update Date: 2024/12/15
 ; Author: Pluwen (Original), ZXfkSIE (Current)
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -762,32 +762,20 @@
 *.oneplusbbs.com
 *.onlinedown.net
 *.open-open.com
-*.open.cd
+*.openeuler.org
 *.oppo.com
-*.ops.moe
-*.oracle.com
 *.oray.com
 *.oray.net
 *.orayimg.com
 *.oschina.io
 *.oschina.net
-*.ourbits.club
 *.ourdvs.com
 *.ourdvsss.com
 *.oursketch.com
-*.outlook.com
 *.pag.art
 *.paipai.com
-*.panda.tv
-*.panduoduo.net
 *.paperpass.com
-*.passthepopcorn.me
-*.pc6.com
-*.pcbeta.com
-*.pdcicons.ml
-*.pdim.gs
 *.pengyou.com
-*.pexels.com
 *.pgyer.com
 *.phonegap100.com
 *.phpcomposer.com
