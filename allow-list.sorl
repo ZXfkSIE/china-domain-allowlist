@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2024/12/15
+; Update Date: 2024/12/18
 ; Author: Pluwen (Original), ZXfkSIE (Current)
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -1071,9 +1071,7 @@
 *.wulihub.com
 *.wxb.com
 *.xbongbong.com
-*.xclient.info
-*.xdccpro.com
-*.xf9168.com
+*.xckfsq.com
 *.xiachufang.com
 *.xiami.com
 *.xiami.net
