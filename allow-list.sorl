@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2024/12/18
+; Update Date: 2024/12/29
 ; Author: Pluwen (Original), ZXfkSIE (Current)
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -775,14 +775,11 @@
 *.pingan.com
 *.pingwest.com
 *.planetmeican.com
-*.plex.tv
-*.polyfill.io
+*.pome.vip
 *.pomotodo.com
 *.ppgame.com
-*.pplink.link
 *.ppsimg.com
 *.pptv.com
-*.privatehd.to
 *.processon.com
 *.psbc.com
 *.psnine.com
