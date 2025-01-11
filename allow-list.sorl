@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2024/12/29
+; Update Date: 2025-01-11
 ; Author: Pluwen (Original), ZXfkSIE (Current)
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -843,8 +843,6 @@
 *.rrimg.com
 *.rsc.org
 *.ruanmei.com
-*.ruanyifeng.com
-*.ruby-china.org
 *.ruguoapp.com
 *.runoob.com
 *.s-reader.com
@@ -862,17 +860,14 @@
 *.sf-express.com
 *.shejijia.com
 *.shidianguji.com
-*.shikezhi.com
 *.shimo.im
 *.shiyanlou.com
+*.shobserver.com
 *.shssp.org
 *.shxibank.com
-*.shyywz.com
-*.sigmaaldrich.com
 *.sigujiexi.com
 *.sina.com
 *.sinaapp.com
-*.since1989.org
 *.siweiearth.com
 *.sketchchina.com
 *.slack.com
