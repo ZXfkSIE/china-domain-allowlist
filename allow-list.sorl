@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2025-01-11
+; Update Date: 2025-01-14
 ; Author: Pluwen (Original), ZXfkSIE (Current)
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -89,24 +89,16 @@
 *.acg.tv
 *.acggate.net
 *.acgvideo.com
-*.acs.org
-*.aday01.com
-*.adf.ly
 *.agora.io
 *.aicdn.com
 *.aicheren.com
-*.aicoinstorge.com
 *.aipai.com
 *.air-matters.com
-*.air-matters.io
-*.airbnb.com
-*.aiwebcom.com
 *.aixifan.com
 *.aizhan.com
-*.akadns.net
-*.akarin.me
 *.akarin.top
 *.aldwx.com
+*.ali213.net
 *.aliapp.org
 *.alibaba-inc.com
 *.alibaba.com
@@ -129,25 +121,14 @@
 *.allhistory.com
 *.alltuu.com
 *.amap.com
-*.amd.com
 *.ancda.com
-*.animebytes.tv
 *.anjuke.com
 *.anquan.org
-*.ant.design
 *.antfin-inc.com
 *.antfin.com
 *.antpcdn.com
 *.anw.red
-*.anyway.fm
-*.anzhi.com
 *.appinn.com
-*.appinn.net
-*.appletuan.com
-*.aps.org
-*.areyoucereal.com
-*.arubanetworks.com
-*.atomicstryker.net
 *.augix.me
 *.autonavi.com
 *.awesome-hd.me
