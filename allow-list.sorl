@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2025-01-14
+; Update Date: 2025-01-24
 ; Author: Pluwen (Original), ZXfkSIE (Current)
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -749,7 +749,6 @@
 *.pengyou.com
 *.pgyer.com
 *.phonegap100.com
-*.phpcomposer.com
 *.piaoquantv.com
 *.pingan.com
 *.pingwest.com
@@ -763,15 +762,14 @@
 *.psbc.com
 *.psnine.com
 *.pstatp.com
-*.pterclub.com
-*.pythonclub.org
+*.pupuapi.com
+*.pupufz.com
+*.pupumall.com
 *.qbox.me
 *.qcc.com
 *.qcloud.com
 *.qcloudcdn.com
-*.qcwgg.com
 *.qdaily.com
-*.qdan.me
 *.qdmm.com
 *.qeeyou.com
 *.qhimg.com
