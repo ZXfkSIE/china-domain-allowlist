@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2025-01-24
+; Update Date: 2025-01-28
 ; Author: Pluwen (Original), ZXfkSIE (Current)
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -76,6 +76,7 @@
 *.699pic.com
 *.7k7k.com
 *.8686c.com
+*.8uid.com
 *.91.com
 *.91q.com
 *.91118.com
