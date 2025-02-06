@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2025-01-28
+; Update Date: 2025-02-06
 ; Author: Pluwen (Original), ZXfkSIE (Current)
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -271,19 +271,14 @@
 *.daocloud.io
 *.datagrand.com
 *.dbankcdn.com
-*.ddos.cc
-*.ddrk.me
 *.deepin.com
-*.deepin.org
-*.deepinos.org
-*.deliwenku.com
+*.deepseek.com
 *.dfcfw.com
 *.dgtle.com
 *.dianping.com
 *.didialift.com
 *.didiglobal.com
 *.dilidili.com
-*.dilidili.wang
 *.dingtalk.com
 *.dingtalkapps.com
 *.diybeta.com
