@@ -14,7 +14,7 @@
 * 不收录任何无ICP备案号的境外网站，即使它在国内还可以**勉强**访问。
   * 因为fork过来的列表里这类网站实在太多，所以没办法短期内清除干净，只能随缘删。
   * 例外：对极少数没有标识ICP备案的域名，只要确认服务器在大陆，也可以收录。
-* 可在 https://beian.tianyancha.com/ 查询域名的ICP备案。
+* 可在 https://beian.miit.gov.cn/#/Integrated/recordQuery 查询域名的ICP备案。
 
 ## 作者
 * [Pluwen](https://twitter.com/pluwen)（原作者）
