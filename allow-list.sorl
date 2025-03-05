@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2025-02-06
+; Update Date: 2025-03-05
 ; Author: Pluwen (Original), ZXfkSIE (Current)
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -911,21 +911,14 @@
 *.toutiao.io
 *.toutiaoimg.com
 *.tower.im
-*.trontv.com
-*.truevue.org
-*.ttt.tt
 *.tuchong.com
 *.tudou.com
-*.tuicool.com
-*.tuna.moe
 *.tuniu.com
-*.typeisbeautiful.com
-*.u9u9.com
+*.tvmao.com
 *.ubuntukylin.com
 *.ucweb.com
 *.ucxinwen.com
 *.udache.com
-*.udacity.com
 *.uedna.com
 *.uigreat.com
 *.uisdc.com
