@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2025-03-18
+; Update Date: 2025-03-26
 ; Author: Pluwen (Original), ZXfkSIE (Current)
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -580,6 +580,7 @@
 *.lecloud.com
 *.leetcode-cn.com
 *.leigod.com
+*.leiting.com
 *.lenovo.net
 *.lenovomobile.com
 *.letv.com
@@ -989,11 +990,10 @@
 *.wolai.com
 *.woozooo.com
 *.woshipm.com
-*.woyoo.com
 *.wps.com
 *.wscdns.com
-*.wulihub.com
 *.wxb.com
+*.wyzxwk.com
 *.xbongbong.com
 *.xckfsq.com
 *.xiachufang.com
