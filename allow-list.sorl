@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2025-03-26
+; Update Date: 2025-03-31
 ; Author: Pluwen (Original), ZXfkSIE (Current)
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -177,23 +177,10 @@
 *.biligame.com
 *.biligame.net
 *.bilivideo.com
-*.bitbucket.org
-*.blackyau.cc
-*.blizzard.com
 *.blogchina.com
 *.blogjava.net
-*.bluedoc.io
-*.booking.com
+*.boe.com
 *.bootcss.com
-*.bqtalk.com
-*.broadcasthe.net
-*.bstatic.com
-*.bt0.com
-*.btdx8.com
-*.btsync.org
-*.btyingshi.com
-*.bumimi.com
-*.bybbs.org
 *.bytecdntp.com
 *.ca001.com
 *.cachemoment.com
