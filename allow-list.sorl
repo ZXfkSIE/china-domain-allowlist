@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2025-03-31
+; Update Date: 2025-05-01
 ; Author: Pluwen (Original), ZXfkSIE (Current)
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -887,19 +887,15 @@
 *.tigerlust.com
 *.tingyun.com
 *.tinyservices.net
-*.tinywow.com
-*.tjupt.org
 *.tmall.com
 *.tmall.hk
 *.todesk.com
 *.tool.lu
-*.tophub.today
-*.totheglory.im
 *.toushibao.com
 *.toutiao.com
-*.toutiao.io
 *.toutiaoimg.com
 *.tower.im
+*.tpv-tech.com
 *.tuchong.com
 *.tudou.com
 *.tuniu.com
