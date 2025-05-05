@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2025-05-01
+; Update Date: 2025-05-05
 ; Author: Pluwen (Original), ZXfkSIE (Current)
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -267,18 +267,17 @@
 *.dm5.com
 *.dmzj.com
 *.dns.com
-*.dnspao.com
 *.doc88.com
 *.docer.com
 *.docin.com
 *.docschina.org
 *.dopa.com
 *.douban.*
-*.douban.com
-*.douban.fm
 *.doubanio.com
-*.doubleclick.net
 *.douyin.com
+*.douyincdn.com
+*.douyinliving.com
+*.douyinvod.com
 *.douyu.com
 *.douyutv.com
 *.doyoo.net
@@ -286,9 +285,7 @@
 *.dpfile.com
 *.drivergenius.com
 *.drvsky.com
-*.dsxys.com
 *.duanwenxue.com
-*.duguletian.com
 *.duokan.com
 *.duoshao.app
 *.duoshao.net
@@ -474,26 +471,18 @@
 *.iteye.com
 *.ithome.com
 *.itjuzi.com
+*.ixigua.com
 *.jandan.net
 *.java.com
 *.javaeye.com
 *.jb51.net
-*.jcodecraeer.com
 *.jd.com
 *.jd.hk
-*.jdkindle.com
 *.jdpay.com
-*.jetbrains.com
 *.jfdaily.com
-*.jfrft.com
-*.jhdec.com
 *.jianguoyun.com
 *.jianshu.*
-*.jianshu.com
-*.jianshu.io
 *.jianshuapi.com
-*.jiathis.com
-*.jidian.im
 *.jiemian.com
 *.jikexueyuan.com
 *.jikipedia.com
@@ -635,14 +624,12 @@
 *.meitustat.com
 *.meixincdn.com
 *.meizu.com
-*.mengniang.org
 *.mgtv.com
 *.mi-img.com
 *.mi.com
+*.mianshiya.com
 *.miaopai.com
-*.microbit.org
 *.midifan.com
-*.mikanani.me
 *.minapp.com
 *.mindstore.io
 *.mingdao.com
