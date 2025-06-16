@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2025-05-05
+; Update Date: 2025-06-16
 ; Author: Pluwen (Original), ZXfkSIE (Current)
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -906,19 +906,10 @@
 *.vhall.com
 *.vhallyun.com
 *.videojj.com
-*.viosey.com
 *.vip.com
-*.visualhunt.com
-*.visualstudio.com
-*.vite.org
-*.vjudge.net
 *.vmall.com
-*.vmware.com
-*.voidcn.com
-*.vostic.net
+*.vobao.com
 *.vpgame.com
-*.vpsmm.com
-*.vss.im
 *.vzan.com
 *.wacai.com
 *.waerfa.com
