@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2025-06-16
+; Update Date: 2025-07-16
 ; Author: Pluwen (Original), ZXfkSIE (Current)
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -1016,15 +1016,12 @@
 *.yy.com
 *.z-bank.com
 *.zaih.com
-*.zanata.org
-*.zanmeishi.com
+*.zaobao.com
 *.zdic.net
 *.zealer.com
 *.zh.moegirl.org
 *.zhan.com
 *.zhangxinxu.com
-*.zhangyao.name
-*.zhangzishi.cc
 *.zhanqi.tv
 *.zhaopin.com
 *.zhihu.com
@@ -1035,9 +1032,6 @@
 *.zhiye.com
 *.zhiziyun.com
 *.zhongguose.com
-*.zhuihd.com
-*.zhujike.com
 *.zijieapi.com
 *.zku.net
-*.znyj365.com
 *.zto.com
