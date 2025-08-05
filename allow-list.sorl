@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2025-07-16
+; Update Date: 2025-08-05
 ; Author: Pluwen (Original), ZXfkSIE (Current)
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -983,8 +983,8 @@
 *.xunyou.com
 *.xx1t.com
 *.xxsy.net
-*.xycdn.com
 *.xywy.com
+*.xyzb010.com
 *.yamibo.com
 *.yangkeduo.com
 *.yangwangauto.com
@@ -1035,3 +1035,4 @@
 *.zijieapi.com
 *.zku.net
 *.zto.com
+
