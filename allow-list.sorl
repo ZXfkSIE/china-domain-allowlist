@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2025-08-27
+; Update Date: 2025-08-28
 ; Author: Pluwen (Original), ZXfkSIE (Current)
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -66,6 +66,7 @@
 *.5173.com
 *.5173cdn.com
 *.51cto.com
+*.51jianmo.com
 *.51job.com
 *.52audio.com
 *.52yuwan.com
@@ -479,6 +480,7 @@
 *.jiemian.com
 *.jikexueyuan.com
 *.jikipedia.com
+*.jimuyida.com
 *.jinshuju.net
 *.jisuanke.com
 *.jomodns.com
@@ -1030,6 +1032,7 @@
 *.zijieapi.com
 *.zku.net
 *.zto.com
+
 
 
 
