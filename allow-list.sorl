@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2025-08-28
+; Update Date: 2025-09-05
 ; Author: Pluwen (Original), ZXfkSIE (Current)
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -318,7 +318,7 @@
 *.eudic.net
 *.ewei.com
 *.fang.com
-*.fatetypo.xyz
+*.feijipan.com
 *.feiliao.com
 *.feishucdn.com
 *.feng.com
@@ -1032,6 +1032,7 @@
 *.zijieapi.com
 *.zku.net
 *.zto.com
+
 
 
 
