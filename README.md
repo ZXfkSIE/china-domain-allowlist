@@ -5,7 +5,8 @@
 
 ## 使用步骤
 * 在浏览器中安装SwitchyOmega插件。
-* 新建或更改现有的Switching Profile，导入规则列表 https://raw.githubusercontent.com/ZXfkSIE/china-domain-allowlist/main/allow-list.sorl （或官方镜像 https://repo.or.cz/china-domain-allowlist.git/blob_plain/refs/heads/main:/allow-list.sorl ）后，点击下载按钮。
+* 新建或更改现有的Switching Profile，导入规则列表 https://raw.githubusercontent.com/ZXfkSIE/china-domain-allowlist/main/allow-list.sorl 。
+  * 需要直连下载列表的话可使用镜像列表 https://repo.or.cz/china-domain-allowlist.git/blob_plain/refs/heads/main:/allow-list.sorl 。建议同时将`*.or.cz`手动添加到直连规则中，避免触发该网站的机器人拦截机制。
 * 至于规则列表里的网站要以什么方式访问、规则列表外的网站又要以什么方式访问，那就是你自己的事情了。
 
 ## 个人理念

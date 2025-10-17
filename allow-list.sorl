@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2025-09-05
+; Update Date: 2025-10-17
 ; Author: Pluwen (Original), ZXfkSIE (Current)
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -130,6 +130,7 @@
 *.anquan.org
 *.antfin-inc.com
 *.antfin.com
+*.antgroup.com
 *.antpcdn.com
 *.anw.red
 *.appinn.com
@@ -185,6 +186,7 @@
 *.boe.com
 *.bootcss.com
 *.bytecdntp.com
+*.bytetos.com
 *.ca001.com
 *.cachemoment.com
 *.cailianpress.com
