@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2025-10-17
+; Update Date: 2025-11-02
 ; Author: Pluwen (Original), ZXfkSIE (Current)
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -993,9 +993,7 @@
 *.yd-jxt.com
 *.ydstatic.com
 *.yesky.com
-*.yeyfree.com
-*.yfscdn.net
-*.yfsvdn.net
+*.yeston.net
 *.yhd.com
 *.yi2.net
 *.yiche.com
@@ -1036,6 +1034,7 @@
 *.zijieapi.com
 *.zku.net
 *.zto.com
+
 
 
 
