@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2025-11-02
+; Update Date: 2025-11-10
 ; Author: Pluwen (Original), ZXfkSIE (Current)
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -541,12 +541,11 @@
 *.kunlunvi.com
 *.kunlunwe.com
 *.kyoceraconnect.com
-*.lackar.com
 *.lagou.com
 *.lanhuapp.com
 *.lanjinger.com
 *.lanyus.com
-*.lanzous.com
+*.lanzouo.com
 *.lanzoux.com
 *.laoyaoba.com
 *.lbesec.com
@@ -1034,6 +1033,7 @@
 *.zijieapi.com
 *.zku.net
 *.zto.com
+
 
 
 
