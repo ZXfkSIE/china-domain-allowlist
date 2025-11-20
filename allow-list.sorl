@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2025-11-10
+; Update Date: 2025-11-20
 ; Author: Pluwen (Original), ZXfkSIE (Current)
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -104,10 +104,11 @@
 *.aldwx.com
 *.ali213.net
 *.aliapp.org
-*.alibaba-inc.com
 *.alibaba.com
 *.alibabacloud.com
+*.alibabafonts.com
 *.alibabausercontent.com
+*.alibaba-inc.com
 *.alicdn.com
 *.alicloudccp.com
 *.alikunlun.com
@@ -122,6 +123,7 @@
 *.aliyuncs.com
 *.aliyundrive.com
 *.aliyunpds.com
+*.allawnfs.com
 *.allhistory.com
 *.alltuu.com
 *.amap.com
@@ -905,6 +907,7 @@
 *.vhallyun.com
 *.videojj.com
 *.vip.com
+*.vivo.com
 *.vmall.com
 *.vobao.com
 *.vpgame.com
@@ -1033,6 +1036,7 @@
 *.zijieapi.com
 *.zku.net
 *.zto.com
+
 
 
 
