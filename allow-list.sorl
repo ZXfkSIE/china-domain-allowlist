@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2025-11-20
+; Update Date: 2025-12-05
 ; Author: Pluwen (Original), ZXfkSIE (Current)
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -206,11 +206,9 @@
 *.cdog.me
 *.ceair.com
 *.cebbank.com
-*.cee.network
-*.chainnews.com
 *.chaoxing.com
-*.chdbits.co
 *.china.com
+*.chinafilm.com
 *.chinanetcenter.com
 *.chinaso.com
 *.chinassl.net
@@ -1020,7 +1018,7 @@
 *.zaobao.com
 *.zdic.net
 *.zealer.com
-*.zh.moegirl.org
+*.zgdygf.com
 *.zhan.com
 *.zhangxinxu.com
 *.zhanqi.tv
@@ -1036,6 +1034,7 @@
 *.zijieapi.com
 *.zku.net
 *.zto.com
+
 
 
 
