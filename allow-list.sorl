@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2025-12-05
+; Update Date: 2025-12-12
 ; Author: Pluwen (Original), ZXfkSIE (Current)
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -371,8 +371,7 @@
 *.godic.net
 *.golaravel.com
 *.goofish.com
-*.googletagmanager.com
-*.gratisography.com
+*.gpticket.org
 *.growingio.com
 *.gtimg.com
 *.guazi.com
@@ -446,20 +445,13 @@
 *.ijiwei.com
 *.iknoworld.net
 *.imooc.com
-*.imququ.com
 *.indienova.com
 *.infinitynewtab.com
-*.infoq.com
-*.installbi.me
-*.ip-api.com
-*.ip.la
-*.ip.sb
 *.ip138.com
+*.icpcw.com
 *.ipip.net
 *.iplaysoft.com
-*.ipv6-test.com
 *.iqihang.com
-*.iqing.in
 *.iqiyi.com
 *.iqiyipic.com
 *.irs01.com
@@ -1034,6 +1026,7 @@
 *.zijieapi.com
 *.zku.net
 *.zto.com
+
 
 
 
