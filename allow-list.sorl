@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2025-12-12
+; Update Date: 2025-12-17
 ; Author: Pluwen (Original), ZXfkSIE (Current)
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -327,16 +327,15 @@
 *.fengkongcloud.com
 *.fengniao.com
 *.ffalcon.com
-*.figma.cool
 *.fiio.com
 *.fj12379.com
 *.fjdzyz.com
 *.fjgdwl.com
 *.fjhxbank.com
+*.fjlib.net
 *.fjmap.net
 *.fliggy.com
 *.flomoapp.com
-*.flow.ci
 *.flyertea.com
 *.fnnas.com
 *.fontke.com
@@ -1026,6 +1025,7 @@
 *.zijieapi.com
 *.zku.net
 *.zto.com
+
 
 
 
