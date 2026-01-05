@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2025-12-17
+; Update Date: 2026-01-06
 ; Author: Pluwen (Original), ZXfkSIE (Current)
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -344,11 +344,9 @@
 *.futu5.com
 *.futunn.com
 *.fydeos.com
-*.fzzfgjj.com
 *.g-cores.com
-*.galstars.net
+*.gamekee.com
 *.gamersky.com
-*.gandi.net
 *.ganji.com
 *.gank.io
 *.gazellegames.net
@@ -542,6 +540,7 @@
 *.leigod.com
 *.leiting.com
 *.lenovo.net
+*.lenovoimage.com
 *.lenovomobile.com
 *.letv.com
 *.letvimg.com
@@ -1021,6 +1020,7 @@
 *.zijieapi.com
 *.zku.net
 *.zto.com
+
 
 
 
