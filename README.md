@@ -5,8 +5,11 @@
 
 ## 使用步骤
 * 在浏览器中安装SwitchyOmega插件。
-* 新建或更改现有的Switching Profile，导入规则列表 https://raw.githubusercontent.com/ZXfkSIE/china-domain-allowlist/main/allow-list.sorl 。
-  * 需要直连下载列表的话可使用镜像列表 https://repo.or.cz/china-domain-allowlist.git/blob_plain/refs/heads/main:/allow-list.sorl 。建议同时将`*.or.cz`手动添加到直连规则中，避免触发该网站的机器人拦截机制。
+* 新建或更改现有的Switching Profile，导入规则列表 https://raw.githubusercontent.com/ZXfkSIE/china-domain-allowlist/main/allow-list.sorl 。直连不畅的用户可以选择以下镜像：
+  * Bitbucket： https://bitbucket.org/zxecdcdefgrtvxz4b/china-domain-allowlist/raw/HEAD/allow-list.sorl
+  * Gitlab： https://gitlab.com/xfhye3w5rhtrr/china-domain-allowlist/raw/HEAD/allow-list.sorl
+  * *Repo.or.cz*（不推荐）： https://repo.or.cz/china-domain-allowlist.git/blob_plain/HEAD:/allow-list.sorl 
+    * 同步不及时（1小时同步一次），且极大概率触发防机器人页面
 * 至于规则列表里的网站要以什么方式访问、规则列表外的网站又要以什么方式访问，那就是你自己的事情了。
 
 ## 个人理念
@@ -17,6 +20,9 @@
   * 例外：对极少数没有标识ICP备案的域名，只要确认服务器在大陆，也可以收录。
 * 可在 https://beian.miit.gov.cn/#/Integrated/recordQuery 查询域名的ICP备案。
 
-## 作者
-* [Pluwen](https://twitter.com/pluwen)（原作者）
+## 维护者
+* [Pluwen](https://twitter.com/pluwen)（原维护者）
 * ZXfkSIE
+
+## 鸣谢
+* [ピクスタ株式会社（PIXTA Inc.）](https://pixta.co.jp/)：开发[Mirroring Repository](https://github.com/marketplace/actions/mirroring-repository)这一GitHub Action，方便将代码从GitHub同步到其他仓库
