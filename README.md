@@ -8,8 +8,6 @@
 * 新建或更改现有的Switching Profile，导入规则列表 https://raw.githubusercontent.com/ZXfkSIE/china-domain-allowlist/main/allow-list.sorl 。直连不畅的用户可以选择以下镜像：
   * Bitbucket： https://bitbucket.org/zxecdcdefgrtvxz4b/china-domain-allowlist/raw/HEAD/allow-list.sorl
   * Gitlab： https://gitlab.com/xfhye3w5rhtrr/china-domain-allowlist/raw/HEAD/allow-list.sorl
-  * *Repo.or.cz*（不推荐）： https://repo.or.cz/china-domain-allowlist.git/blob_plain/HEAD:/allow-list.sorl 
-    * 同步不及时（1小时同步一次），且极大概率触发防机器人页面
 * 至于规则列表里的网站要以什么方式访问、规则列表外的网站又要以什么方式访问，那就是你自己的事情了。
 
 ## 个人理念
