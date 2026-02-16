@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2026-01-06
+; Update Date: 2026-02-16
 ; Author: Pluwen (Original), ZXfkSIE (Current)
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -955,10 +955,7 @@
 *.xinhuanet.com
 *.xiniu.com
 *.xinquji.com
-*.xitu.io
-*.xiya.vip
-*.xldns.net
-*.xmac.app
+*.xiumi.us
 *.xmcdn.com
 *.xnpic.com
 *.xpcha.com
@@ -1020,6 +1017,7 @@
 *.zijieapi.com
 *.zku.net
 *.zto.com
+
 
 
 
