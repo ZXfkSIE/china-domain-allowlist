@@ -1,7 +1,7 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2026-02-16
-; Author: Pluwen (Original), ZXfkSIE (Current)
+; Update Date: 2026-02-22
+; Author: Pluwen (Original), ZXfkSIE
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 ; IP 地址段
@@ -339,22 +339,16 @@
 *.foxirj.com
 *.frdic.com
 *.freebuf.com
-*.freeziti.com
 *.fromgeek.com
-*.futu5.com
 *.futunn.com
 *.fydeos.com
-*.g-cores.com
+*.fzcrb.com
 *.gamekee.com
 *.gamersky.com
 *.ganji.com
-*.gank.io
-*.gazellegames.net
 *.gcores.com
 *.geetest.com
 *.geilicdn.com
-*.getfedora.org
-*.getpricetag.com
 *.getui.com
 *.gfan.com
 *.gifshow.com
@@ -1017,6 +1011,7 @@
 *.zijieapi.com
 *.zku.net
 *.zto.com
+
 
 
 
