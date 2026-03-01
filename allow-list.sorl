@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2026-02-22
+; Update Date: 2026-03-01
 ; Author: Pluwen (Original), ZXfkSIE
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -140,10 +140,8 @@
 *.autonavi.com
 *.awesome-hd.me
 *.axhub.im
-*.axshare.com
-*.axure.org
 *.axureux.com
-*.b612.net
+*.b23.tv
 *.babybus.com
 *.baidu.com
 *.baidubcr.com
@@ -1011,6 +1009,7 @@
 *.zijieapi.com
 *.zku.net
 *.zto.com
+
 
 
 
