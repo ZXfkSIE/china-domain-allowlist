@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2026-03-01
+; Update Date: 2026-03-03
 ; Author: Pluwen (Original), ZXfkSIE
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -701,16 +701,13 @@
 *.qcloudcdn.com
 *.qdaily.com
 *.qdmm.com
-*.qeeyou.com
 *.qhimg.com
 *.qhmsg.com
-*.qhres.com
+*.qianwen.com
 *.qianxin.com
 *.qichacha.com
 *.qidian.com
 *.qihucdn.com
-*.qimiaomh.com
-*.qingmang.me
 *.qingting.fm
 *.qiniu.com
 *.qiniucdn.com
@@ -1009,6 +1006,7 @@
 *.zijieapi.com
 *.zku.net
 *.zto.com
+
 
 
 
