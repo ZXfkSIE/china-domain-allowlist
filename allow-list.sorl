@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2026-03-03
+; Update Date: 2026-03-10
 ; Author: Pluwen (Original), ZXfkSIE
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -365,8 +365,7 @@
 *.h-ui.net
 *.h2os.com
 *.hacpai.com
-*.haitum.com
-*.halyul.cc
+*.hanvonugee.com
 *.hao123.com
 *.haosou.com
 *.happyeo.com
@@ -1006,6 +1005,7 @@
 *.zijieapi.com
 *.zku.net
 *.zto.com
+
 
 
 
