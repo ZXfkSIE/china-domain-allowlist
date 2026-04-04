@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2026-03-10
+; Update Date: 2026-04-04
 ; Author: Pluwen (Original), ZXfkSIE
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -634,6 +634,7 @@
 *.mydrivers.com
 *.myqcloud.com
 *.myzaker.com
+*.mzfxw.com
 *.mzstatic.com
 *.naixue.com
 *.narwal.com
