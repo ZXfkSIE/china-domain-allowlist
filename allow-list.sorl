@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2026-04-28
+; Update Date: 2026-04-30
 ; Author: Pluwen (Original), ZXfkSIE
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -880,6 +880,7 @@
 *.vivo.com
 *.vmall.com
 *.vobao.com
+*.volces.com
 *.vpgame.com
 *.vzan.com
 *.wacai.com
