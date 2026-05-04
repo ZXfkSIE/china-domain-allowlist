@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2026-04-30
+; Update Date: 2026-05-04
 ; Author: Pluwen (Original), ZXfkSIE
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -136,9 +136,9 @@
 *.antpcdn.com
 *.anw.red
 *.appinn.com
+*.asiaic.net
 *.augix.me
 *.autonavi.com
-*.awesome-hd.me
 *.axhub.im
 *.axureux.com
 *.b23.tv
