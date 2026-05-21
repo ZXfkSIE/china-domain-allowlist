@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2026-05-04
+; Update Date: 2026-05-22
 ; Author: Pluwen (Original), ZXfkSIE
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -719,27 +719,18 @@
 *.qnssl.com
 *.qq.com
 *.qqmail.com
-*.qqurl.com
 *.qqzzz.net
-*.quanmingjiexi.com
 *.qudong.com
 *.qunar.com
 *.qweather.com
 *.qyer.com
 *.qyerstatic.com
 *.rapoo.com
-*.rarbg.to
-*.raychase.net
 *.realme.com
-*.redacted.ch
+*.redmagic.com
 *.renren.com
 *.renrenche.com
 *.renrendoc.com
-*.researchgate.net
-*.rework.tools
-*.rkecloud.com
-*.rkidc.net
-*.rom.mk
 *.ronghub.com
 *.rr.tv
 *.rrfmn.com
