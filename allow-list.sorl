@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2026-05-22
+; Update Date: 2026-07-02
 ; Author: Pluwen (Original), ZXfkSIE
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -11,8 +11,9 @@
 172.16.*.*
 192.168.*.*
 
-; cn 域名都不走代理
+; “.cn”、“.中国”都不走代理
 *.cn
+*.xn--fiqs8s
 
 ; 其他域名
 *.00cdn.com
@@ -540,12 +541,12 @@
 *.liepin.com
 *.likefont.com
 *.lilithgames.com
+*.lingguang.com
 *.linuxidc.com
+*.lisuantech.com
 *.livechina.com
 *.lizhi.fm
-*.lizhi.io
 *.lkkdesign.com
-*.lncld.net
 *.locoy.com
 *.locvps.com
 *.lofter.com
@@ -743,6 +744,7 @@
 *.sandai.net
 *.sankuai.com
 *.saraba1st.com
+*.sciminer.tech
 *.scofd.com
 *.sd173.com
 *.sdbeta.com
@@ -995,26 +997,3 @@
 *.zijieapi.com
 *.zku.net
 *.zto.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
