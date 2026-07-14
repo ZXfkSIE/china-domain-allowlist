@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2026-07-02
+; Update Date: 2026-07-14
 ; Author: Pluwen (Original), ZXfkSIE
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -765,14 +765,8 @@
 *.sina.com
 *.sinaapp.com
 *.siweiearth.com
-*.sketchchina.com
-*.slack.com
-*.sm.ms
-*.smart2pay.com
-*.smartgslb.com
 *.smartisan.com
 *.smzdm.com
-*.snapdrop.net
 *.snssdk.com
 *.snwx.com
 *.so.com
@@ -785,11 +779,9 @@
 *.sohucs.com
 *.soku.com
 *.solidot.org
-*.songshuhui.net
 *.soso.com
 *.soufun.com
-*.sourcegcdn.com
-*.speedtest.net
+*.splcd.com
 *.sspai.com
 *.stage1st.com
 *.stargame.com
