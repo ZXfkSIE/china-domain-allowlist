@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2026-07-14
+; Update Date: 2026-07-31
 ; Author: Pluwen (Original), ZXfkSIE
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -187,6 +187,8 @@
 *.boe.com
 *.bootcss.com
 *.bytecdntp.com
+*.byteeffecttos.com
+*.byteimg.com
 *.bytetos.com
 *.ca001.com
 *.cachemoment.com
@@ -274,12 +276,14 @@
 *.docin.com
 *.docschina.org
 *.dopa.com
-*.douban.*
+*.douban.com
 *.doubanio.com
 *.doubao.com
 *.douyin.com
 *.douyincdn.com
 *.douyinliving.com
+*.douyinpic.com
+*.douyinstatic.com
 *.douyinvod.com
 *.douyu.com
 *.douyutv.com
@@ -396,6 +400,9 @@
 *.huijistatic.com
 *.huijiwiki.com
 *.hujiang.com
+*.huoshan.com
+*.huoshanstatic.com
+*.huoshanzhibo.com
 *.hupu.com
 *.huxiu.com
 *.huxiucdn.com
@@ -860,6 +867,7 @@
 *.vivo.com
 *.vmall.com
 *.vobao.com
+*.volcengine.com
 *.volces.com
 *.vpgame.com
 *.vzan.com
