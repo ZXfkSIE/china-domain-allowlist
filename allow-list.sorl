@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2026-07-31
+; Update Date: 2026-08-05
 ; Author: Pluwen (Original), ZXfkSIE
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -221,10 +221,8 @@
 *.chuangzaoshi.com
 *.chuimg.com
 *.chunyu.mobi
-*.chunyuanfood.com
-*.ciligod.com
+*.cibntv.net
 *.citicbank.com
-*.classix-unlimited.co.uk
 *.cli.im
 *.clouddn.com
 *.cloudinary.com
