@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2026-08-10
+; Update Date: 2026-08-26
 ; Author: Pluwen (Original), ZXfkSIE
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -302,6 +302,7 @@
 *.easou.com
 *.eastmoney.com
 *.ecitic.com
+*.ecodreamers.com
 *.edifier.com
 *.eebbk.com
 *.eeboard.com
