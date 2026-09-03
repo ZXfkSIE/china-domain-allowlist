@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2026-08-26
+; Update Date: 2026-09-03
 ; Author: Pluwen (Original), ZXfkSIE
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -840,6 +840,7 @@
 *.tudou.com
 *.tuniu.com
 *.tvmao.com
+*.ubgame.com
 *.ubuntukylin.com
 *.ucweb.com
 *.ucxinwen.com
