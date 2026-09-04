@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2026-09-03
+; Update Date: 2026-09-04
 ; Author: Pluwen (Original), ZXfkSIE
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -793,6 +793,7 @@
 *.suning.com
 *.supermap.com
 *.szhgh.com
+*.szhk.com
 *.sznews.com
 *.taihe.com
 *.takungpao.com
