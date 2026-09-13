@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2026-09-04
+; Update Date: 2026-09-13
 ; Author: Pluwen (Original), ZXfkSIE
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -61,6 +61,7 @@
 *.39.net
 *.3dmgame.com
 *.4399.com
+*.500px.me
 *.51.la
 *.51.net
 *.5118.com
@@ -375,14 +376,11 @@
 *.happyeo.com
 *.harmonyos.com
 *.hasee.com
-*.hdb.com
 *.hdslb.com
-*.hdslb.net
-*.hejie.me
 *.heweather.com
 *.hexun.com
-*.hexunimg.com
 *.hicloud.com
+*.hicorpflash.com
 *.hihonor.com
 *.hikvision.com
 *.hitv.com
@@ -557,32 +555,17 @@
 *.lizhi.fm
 *.lkkdesign.com
 *.locoy.com
-*.locvps.com
 *.lofter.com
-*.loj.ac
-*.loli.net
-*.lolinet.com
-*.longzhu.com
-*.lucifr.com
 *.ludashi.com
 *.luogu.org
 *.luojilab.com
-*.luoo.net
+*.lutaishoes.com
 *.lvmama.com
-*.lwl12.com
 *.ly.com
 *.lyjsws.com
-*.m-team.cc
-*.macpaw.com
 *.macrr.com
-*.macw.com
-*.macwk.com
-*.madsrevolution.net
-*.magi.com
-*.mail4geek.com
 *.manmanbuy.com
 *.maoyan.com
-*.maoyun.tv
 *.masadora.net
 *.mastergo.com
 *.maxfox.me
@@ -858,12 +841,9 @@
 *.upai.com
 *.upaiyun.com
 *.upyun.com
-*.ustclug.org
-*.uuu.moe
-*.uxengine.net
 *.v-56.com
-*.vamaker.com
 *.vaptcha.net
+*.vcg.com
 *.veryzhun.com
 *.vhall.com
 *.vhallyun.com
