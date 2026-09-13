@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2026-09-13
+; Update Date: 2026-09-14
 ; Author: Pluwen (Original), ZXfkSIE
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -491,8 +491,9 @@
 *.kingsoft.com
 *.kkmh.com
 *.kmf.com
-*.knewone.com
 *.knownsec.com
+*.ksapisrv.com
+*.kskwai.com
 *.ksosoft.com
 *.ksyun.com
 *.ksyungslb.com
@@ -522,6 +523,7 @@
 *.kunlunta.com
 *.kunlunvi.com
 *.kunlunwe.com
+*.kwimgs.com
 *.kyoceraconnect.com
 *.lagou.com
 *.lanhuapp.com
@@ -955,6 +957,7 @@
 *.yunshipei.com
 *.yuque.com
 *.yuwantech.com
+*.yximgs.com
 *.yxt.com
 *.yy.com
 *.z-bank.com
