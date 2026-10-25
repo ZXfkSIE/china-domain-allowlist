@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2026-10-16
+; Update Date: 2026-10-25
 ; Author: Pluwen (Original), ZXfkSIE
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -713,6 +713,7 @@
 *.qq.com
 *.qqmail.com
 *.qqzzz.net
+*.qrstuvwxyzab.com
 *.qudong.com
 *.qunar.com
 *.qweather.com
