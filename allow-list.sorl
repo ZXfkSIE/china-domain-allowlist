@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2026-10-25
+; Update Date: 2026-11-10
 ; Author: Pluwen (Original), ZXfkSIE
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -754,14 +754,13 @@
 *.shobserver.com
 *.shssp.org
 *.shxibank.com
-*.sigujiexi.com
 *.sina.com
 *.sinaapp.com
+*.singfun.com
 *.siweiearth.com
 *.smartisan.com
 *.smzdm.com
 *.snssdk.com
-*.snwx.com
 *.so.com
 *.sobot.com
 *.sogo.com
