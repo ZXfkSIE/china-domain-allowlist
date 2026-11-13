@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2026-11-10
+; Update Date: 2026-11-14
 ; Author: Pluwen (Original), ZXfkSIE
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -365,6 +365,7 @@
 *.gpticket.org
 *.growingio.com
 *.gtimg.com
+*.guangyapan.com
 *.guazi.com
 *.guokr.com
 *.gwdang.com
