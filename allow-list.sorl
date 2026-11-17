@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update Date: 2026-11-14
+; Update Date: 2026-11-17
 ; Author: Pluwen (Original), ZXfkSIE
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
@@ -864,8 +864,8 @@
 *.vzan.com
 *.wacai.com
 *.waerfa.com
+*.waihui999.com
 *.walklake.com
-*.wallhaven.cc
 *.wandoujia.com
 *.wangsu.com
 *.wanmei.com
